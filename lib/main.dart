@@ -5,8 +5,8 @@ import 'package:school/pages/login_page.dart';
 import 'package:school/states/homestate.dart';
 
 void main() {
-  debugShowCheckedModeBanner:
-  false;
+  // debugShowCheckedModeBanner:
+  // false;
 
   runApp(
     BlocProvider<HomeCubite>(
